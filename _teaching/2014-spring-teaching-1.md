@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Algorithmique et programmation 3"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2020-2023-fall-teaching-1
+venue: "Université Paris Dauphine-PS, MIDO"
+date: 2020-2023
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The following are the links to the TDs and TPs
 
-Heading 1
+TDs
 ======
+[TDs](https://www.lamsade.dauphine.fr/~cornaz/Enseignement/ALGOPROG3/TD/)
 
-Heading 2
+TPs
 ======
-
-Heading 3
-======
+[TPs](https://www.lamsade.dauphine.fr/~cornaz/Enseignement/ALGOPROG3/TP/)
