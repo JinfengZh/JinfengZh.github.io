@@ -1,5 +1,5 @@
 ---
-title: "Algorithmique et programmation 3"
+title: "Algorithmique et programmation 3 (2020-2023)"
 collection: teaching
 type: "Undergraduate course (L2)"
 permalink: /teaching/2020-fall-teaching-1
