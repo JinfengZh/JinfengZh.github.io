@@ -24,16 +24,16 @@ Work experience
 
 * April 2019 - October 2019: Research Intern
   * Globéo Travel
-  * Duties included: Completion of bibliographic work;Selection of relevant variables to define customer and company segmentation;Development of models that provide personalized and proactive recommendations to clients; Writing a research project on the design and construction of a real-time recommendation system using a knowledge base.
+  * Duties included: Completion of bibliographic work; Selection of relevant variables to define customer and company segmentation; Development of models that provide personalized and proactive recommendations to clients; Writing a research project on the design and construction of a real-time recommendation system using a knowledge base.
   * Supervisor: Corneliu Radulescu; Elsa NEGRE
   
 Skills
 ======
 * Python
   * Deep learning frameworks: Pytorch, Tensorflow
-  * Data analysis, visualization: Pandas, Numpy; Seaborn,Matplotlib, Plotly...
+  * Data analysis, visualization: Pandas, Numpy; Seaborn, Matplotlib, Plotly...
   * Machine Learning: Scikit-learn, Scipy...
-* Database: SQL, Neo4J,Mongodb
+* Database: SQL, Neo4J, Mongodb
 * Git
 * PHP, HTML, CSS
 
