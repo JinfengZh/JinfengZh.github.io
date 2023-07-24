@@ -1,5 +1,5 @@
 ---
-title: "Base de données pour l'Actuariat"
+title: "Base de données pour l'Actuariat (2020-2023)"
 collection: teaching
 type: "Graduate Level (M2)"
 permalink: /teaching/2020-2023-fall-teaching-2
