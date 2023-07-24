@@ -1,4 +1,3 @@
-
 ---
 title: "Ai: To interpret or to explain? "
 collection: publications
