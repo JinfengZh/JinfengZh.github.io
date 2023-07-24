@@ -8,3 +8,4 @@ venue: 'Proceeding of SMC 2023'
 ---
 To appear in SMC 2023
 
+Recommended citation: Le Ngoc, L., Zhong, J., Negre, E., and Abel, M.-H. Corec-cri: How collaborative and social technologies can help to contextualize crises? In To appear in SMC 2023.
