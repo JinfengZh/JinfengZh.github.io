@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Level (M2)"
 permalink: /teaching/2020-2023-fall-teaching-2
 venue: "Université Paris Dauphine-PS, MIDO"
-date: 2020-2023
+date: 2020-11-16
 location: "Paris, France"
 ---
 
