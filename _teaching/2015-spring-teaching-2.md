@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Base de données pour l'Actuariat"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Level (M2)"
+permalink: /teaching/2020-2023-fall-teaching-2
+venue: "Université Paris Dauphine-PS, MIDO"
+date: 2020-2023
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The following is the link to the document TP
 
 Heading 1
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+[TP](https://moodle.psl.eu/pluginfile.php/295602/mod_resource/content/8/Poly_TP_PostgreSQL.pdf)
