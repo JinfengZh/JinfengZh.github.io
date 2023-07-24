@@ -12,3 +12,4 @@ in this work, we propose to add a module for recommending driver/vehicle pairs (
 
 [Download paper here](https://www.researchgate.net/publication/371375932_Constraint-based_recommender_system_for_crisis_management_simulations)
 
+Recommended citation: Le Ngoc, L., Zhong, J., Negre, E., and Abel, M.-H. Constraint-based recommender system for crisis management simulations. In The 56th Hawaii International Conference on System Sciences, pages 1778–1789.
