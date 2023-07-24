@@ -8,7 +8,7 @@ date: 2020-11-16
 location: "Paris, France"
 ---
 
-The following is the link to the document TP
+This course aims to enable students to understand the organization of data within a relational database and to know how to manipulate and manage this data. The course will also introduce the topic of Big Data, highlighting the challenges it poses, as well as the solutions and technologies available for managing large volumes of data.
 
 Heading 1
 ======
