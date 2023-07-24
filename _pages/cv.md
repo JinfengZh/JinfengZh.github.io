@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Shanghai Jiao Tong University, Bachelor, 2017
+* M.S. in Université Paris Dauphine-PSL , Master, 2019
+* M.S. in AgroParisTech, Ingénieur(M.S.), 2019
+* Ph.D in Computer Science, Genelarity and explainability in recommender systems, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2018 - August 2018: Research Assistant
+  * AgroParisTech
+  * Duties included: Elaboration of a technical specifications document for the implementation of a platform for data management, storage, and statistical processing at the unit level.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2019 - October 2019: Research Intern
+  * Globéo Travel
+  * Duties included: Completion of bibliographic work;Selection of relevant variables to define customer and company segmentation;Development of models that provide personalized and proactive recommendations to clients; Writing a research project on the design and construction of a real-time recommendation system using a knowledge base.
+  * Supervisor: Corneliu Radulescu; Elsa NEGRE
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Deep learning frameworks: Pytorch, Tensorflow
+  * Data analysis, visualization: Pandas, Numpy; Seaborn,Matplotlib, Plotly...
+  * Machine Learning: Scikit-learn, Scipy...
+* Database: SQL, Neo4J,Mongodb
+* Git
+* PHP, HTML, CSS
 
 Publications
 ======
@@ -56,4 +57,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Responsable of Forum Horizon Chine 2019
+* 2016-2017 President of Wine Association of SJTU
