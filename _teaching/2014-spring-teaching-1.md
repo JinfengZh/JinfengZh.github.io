@@ -2,7 +2,7 @@
 title: "Algorithmique et programmation 3"
 collection: teaching
 type: "Undergraduate course (L2)"
-permalink: /teaching/2020-2023-fall-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "Université Paris Dauphine-PSL, MIDO"
 date: 2020-2023
 location: "Paris, France"
