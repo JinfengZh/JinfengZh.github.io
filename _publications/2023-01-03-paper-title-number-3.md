@@ -3,7 +3,7 @@ title: "Constraint-based recommender system for crisis management simulations"
 collection: publications
 permalink: /publication/2023-01-03-paper-title-number-3
 date: 2023-01-03
-venue: 'Proceedings of HICSS 2023'
+venue: 'Proceedings of HICSS'
 ---
 In this paper, we propose to add a module for recommending driver/vehicle pairs (with their specificities) to a system of crisis management simulation.
 
