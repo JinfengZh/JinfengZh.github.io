@@ -11,3 +11,4 @@ This paper proposes an Attribute-Aware Argumentative Recommender ($A^3R$) that c
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/10032419)
 
 
+Recommended citation: Zhong, J. and Negre, E. $A^3r$: Argumentative explanations for recommendations. In 2022 IEEE 9th International Conference on Data Science and Advanced Analytics (DSAA), pages 1–9. IEEE.
