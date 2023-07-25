@@ -3,7 +3,7 @@ title: "Towards improving user-recommender systems interactions"
 collection: publications
 permalink: /publication/2022-01-19-paper-title-number-4
 date: 2022-01-19
-venue: 'Proceedings in SII 2022'
+venue: 'Proceedings in SII'
 ---
 In this paper, we investigate the possibility of providing context-aware explanations for recommendations and discuss the potential methods of evaluating such explanations.
 
