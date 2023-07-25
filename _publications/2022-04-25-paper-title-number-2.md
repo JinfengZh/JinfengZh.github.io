@@ -3,7 +3,7 @@ title: "Shap-enhanced counterfactual explanations for recommendations."
 collection: publications
 permalink: /publication/2022-04-25-paper-title-number-2
 date: 2022-04-25
-venue: 'Proceedings SAC 2022'
+venue: 'Proceedings SAC'
 ---
 In this paper, we present a counterfactual explanation method guided by SHAP that can generate easily understandable explanations with high fidelity.
 
