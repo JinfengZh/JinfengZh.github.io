@@ -1,15 +1,15 @@
 ---
-title: "Constraint-based recommender system for crisis management simulations"
+title: "CORec-Cri: How collaborative and social technologies can help to contextualize crises?"
 collection: publications
 permalink: /publication/2023-01-03-paper-title-number-4
-excerpt: 'In this paper, we propose to add a module for recommending driver/vehicle pairs (with their specificities) to a system of crisis management simulation.'
-date: 2023-01-03
-venue: 'Proceedings of HICSS 2023'
-paperurl: 'https://www.researchgate.net/publication/371375932_Constraint-based_recommender_system_for_crisis_management_simulations'
-citation: 'Le Ngoc, L., Zhong, J., Negre, E., and Abel, M.-H. Constraint-based recommender system for crisis management simulations. In The 56th Hawaii International Conference on System Sciences, pages 1778–1789.'
+excerpt: 'In this paper, we leverage social computing to better contextualize crises (e.g. identifying the location of impacted areas and real-time needs, gathering and sharing information related to crises) and facilitate collaboration among stakeholders.'
+date: 2023-10-01
+venue: 'Proceedings of SMC 2023'
+paperurl: 'https://ieeesmc2023.org/'
+citation: 'Le Ngoc, L., Zhong, J., Negre, E., and Abel, M.-H. Corec-cri: How collaborative and social technologies can help to contextualize crises? In To appear in SMC 2023.'
 ---
-In this paper, we propose to add a module for recommending driver/vehicle pairs (with their specificities) to a system of crisis management simulation.
+In this paper, we leverage social computing to better contextualize crises (e.g. identifying the location of impacted areas and real-time needs, gathering and sharing information related to crises) and facilitate collaboration among stakeholders.
 
-[Download paper here](https://www.researchgate.net/publication/371375932_Constraint-based_recommender_system_for_crisis_management_simulations)
+[Download paper here](https://ieeesmc2023.org/)
 
-Recommended citation: Le Ngoc, L., Zhong, J., Negre, E., and Abel, M.-H. Constraint-based recommender system for crisis management simulations. In The 56th Hawaii International Conference on System Sciences, pages 1778–1789.
+Recommended citation: Le Ngoc, L., Zhong, J., Negre, E., and Abel, M.-H. Corec-cri: How collaborative and social technologies can help to contextualize crises? In To appear in SMC 2023.
