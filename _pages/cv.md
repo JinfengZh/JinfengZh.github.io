@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in Food Science and Engineering; French, Shanghai Jiao Tong University, 2017
-* M.S. in Data Science, Université Paris Dauphine-PSL , 2019
-* M.S. in Data Science, AgroParisTech, Ingénieur(M.S.), 2019
-* Ph.D. in Computer Science, Université Paris Dauphine-PSL, Genelarity and explainability in recommender systems, 2023 (expected)
+* B.S. in Food Science and Engineering; French, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2017
+* M.S. in Data Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) , 2019
+* M.S. in Data Science, [AgroParisTech](https://www.agroparistech.fr/), Ingénieur(M.S.), 2019
+* Ph.D. in Computer Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/), Genelarity and explainability in recommender systems, 2023 (expected)
 
 Work experience
 ======
 * October 2020 - Ongoing: Teaching assistant
-  * Université Paris Dauphine-PSL
+  * [Université Paris Dauphine-PSL](https://dauphine.psl.eu/)
   * Courses taught: Algorithm et programming 3; VBA; Data base for actuarial; Machine learning for MIAGE
 
 * April 2019 - October 2019: Research Intern
-  * Globéo Travel
+  * [Globéo Travel](https://www.globeotravel.fr/)
   * Duties included: Completion of bibliographic work; Selection of relevant variables to define customer and company segmentation; Development of models that provide personalized and proactive recommendations to clients; Writing a research project on the design and construction of a real-time recommendation system using a knowledge base.
   * Supervisor: Corneliu Radulescu; Elsa NEGRE
   
 * June 2018 - August 2018: Research Assistant
-  * AgroParisTech
+  * [AgroParisTech](https://www.agroparistech.fr/)
   * Duties included: Elaboration of a technical specifications document for the implementation of a platform for data management, storage, and statistical processing at the unit level.
 
 
