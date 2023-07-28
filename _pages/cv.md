@@ -67,6 +67,6 @@ Service and leadership
 * Reviewer of [Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)
 * Reviewer of [ADMA2023](https://adma2023.uqcloud.net/)
 * Volunteer of [SUM 2022](https://sum2022.sciencesconf.org/resource/gallery/id/17#23)
-* Responsable of [Forum Horizon Chine 2019](https://www.youtube.com/watch?v=orePqNlwgR0)
+* Organiser of [Forum Horizon Chine 2019](https://www.youtube.com/watch?v=orePqNlwgR0)
 * 2016-2017 President of Wine Association of SJTU
   
