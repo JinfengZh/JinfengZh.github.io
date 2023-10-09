@@ -10,7 +10,7 @@ location: "Paris, France"
 
 Some basic and classical machine learning  and deep learning algorithms: Decision Trees, Random Forests, SVM, SVD, NNs, CNN, Auto Encoders, etc. There will be a final project: constructing a recommender system using SVD.
 
-[TDs](https://drive.google.com/file/d/1pwKRhBWHkiiyj3tUXmSHTciCXg14QeBT/view?usp=sharing)
+[TDs](https://drive.google.com/drive/folders/1s-HssabiJRpxXkAMf_122pxlYGv_8Eva?usp=sharing)
 ======
 
 
