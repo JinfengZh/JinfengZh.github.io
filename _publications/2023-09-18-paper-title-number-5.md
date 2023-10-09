@@ -1,7 +1,7 @@
 ---
 title: "Context-aware feature attribution through argumentation"
 collection: publications
-permalink: /publication/2023-18-09-paper-title-number-5
+permalink: /publication/2023-09-18-paper-title-number-5
 date: 2023-18-09
 venue: 'CARSs Workshop at Recsys 2023'
 citation: 'Zhong, J. and Negre, E. (2023). Context-aware feature attribution through argumentation CARSs Workshop at Recsys 2023'
