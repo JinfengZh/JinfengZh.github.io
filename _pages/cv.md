@@ -14,7 +14,7 @@ Education
 * B.S. [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2017
 * M.S. in Data Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) , 2019
 * M.S. in Data Science, [AgroParisTech](https://www.agroparistech.fr/), Ingénieur(M.S.), 2019
-* Ph.D. in Computer Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/), Genelarity and explainability in recommender systems, 2023 (expected)
+* Ph.D. in Computer Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/), Generacity and explainability of recommender systems, 2023 (expected)
 
 Work experience
 ======
