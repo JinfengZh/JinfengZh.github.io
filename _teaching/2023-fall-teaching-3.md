@@ -8,7 +8,7 @@ date: 2023-10-09
 location: "Paris, France"
 ---
 
-Some basic and classical machine learning  and deep learning algorithms: Decision Trees, SVD, NNs, CNN, Auto Encoders,etc.
+Some basic and classical machine learning  and deep learning algorithms: Decision Trees, Random Forests, SVM, SVD, NNs, CNN, Auto Encoders, etc. There will be a final project: constructing a recommender system using SVD.
 
 [TDs](https://drive.google.com/drive/folders/1s-HssabiJRpxXkAMf_122pxlYGv_8Eva?usp=drive_link)
 ======
