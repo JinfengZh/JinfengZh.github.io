@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Food Science and Engineering; French, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2017
+* B.S. [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2017
 * M.S. in Data Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) , 2019
 * M.S. in Data Science, [AgroParisTech](https://www.agroparistech.fr/), Ingénieur(M.S.), 2019
 * Ph.D. in Computer Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/), Genelarity and explainability in recommender systems, 2023 (expected)
