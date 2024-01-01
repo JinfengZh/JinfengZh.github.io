@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2017
-* M.S. in Data Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) , 2019
-* M.S. in Data Science, [AgroParisTech](https://www.agroparistech.fr/), Ingénieur(M.S.), 2019
-* Ph.D. in Computer Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/), Generacity and explainability of recommender systems, 2023 (expected)
+* B.S. in Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), June, 2017
+* M.S. in Data Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) , September, 2019
+* M.S. in Data Science, [AgroParisTech](https://www.agroparistech.fr/), Ingénieur(M.S.), September, 2019
+* Ph.D. in Computer Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/), Generality and explainability of recommender systems, November, 2023
 
 Work experience 
 ======
@@ -63,7 +63,7 @@ Teaching
   
 Service and leadership
 ======
-
+* Reviewer of [Explain'AI ](https://sites.google.com/view/explainai-2024/accueil)
 * Reviewer of [Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)
 * Reviewer of [ADMA2023](https://adma2023.uqcloud.net/)
 * Volunteer of [SUM 2022](https://sum2022.sciencesconf.org/resource/gallery/id/17#23)
