@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), June, 2017
-* M.S. in Data Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) , September, 2019
-* M.S. in Data Science, [AgroParisTech](https://www.agroparistech.fr/), Ingénieur(M.S.), September, 2019
 * Ph.D. in Computer Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/), Generality and explainability of recommender systems, November, 2023
+*  M.S. in Data Science, [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) , September, 2019
+* M.S. in Data Science, [AgroParisTech](https://www.agroparistech.fr/), Ingénieur(M.S.), September, 2019
+* B.S. in Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), June, 2017
+
+
 
 Work experience 
 ======
