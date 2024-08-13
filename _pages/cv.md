@@ -20,7 +20,10 @@ Education
 
 Work experience 
 ======
-* October 2020 - Ongoing: Teaching assistant
+* April 2024 - Ongoing: Postdoctoral Researcher
+  * In collaboration with Pr. Emmanuel Bacry and Pr. Jean-françois muzy, we analyze and model the behaviors of the various agents involved in the same financial market as well as their interaction dynamics. To achieve this, we are fortunate to have access to an exceptionally rich database. This dataset is provided by Euronext (which owns the main market in the eurozone) and includes a complete historical record over several years of all orders placed in the order book of each of the 40 CAC40 stocks, as well as all orders placed in the order book of the futures contracts on the CAC40 index itself.
+
+* October 2020 - April 2024: Temporary Lecturer and Research Assistant
   * [Université Paris Dauphine-PSL](https://dauphine.psl.eu/)
   * Courses taught: Algorithm et programming 3; VBA; Data base for actuarial; Machine learning for MIAGE
 
