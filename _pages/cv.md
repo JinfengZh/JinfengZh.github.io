@@ -22,7 +22,7 @@ Work experience
 ======
 * September 2025 -: Assistant professor (Maîtres de conférences) et University Paris 8 and the [LIASD](https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD)
   
-* April 2024 - Auguest 2025: Postdoctoral Researcher
+* April 2024 - August 2025: Postdoctoral Researcher
   * In collaboration with Pr. Emmanuel Bacry and Pr. Jean-françois muzy, we analyze and model the behaviors of the various agents involved in the same financial market as well as their interaction dynamics. To achieve this, we are fortunate to have access to an exceptionally rich database. This dataset is provided by Euronext (which owns the main market in the eurozone) and includes a complete historical record over several years of all orders placed in the order book of each of the 40 CAC40 stocks, as well as all orders placed in the order book of the futures contracts on the CAC40 index itself.
 
 * October 2020 - April 2024: Temporary Lecturer and Research Assistant
