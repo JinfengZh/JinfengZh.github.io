@@ -7,5 +7,5 @@ venue: 'Proceedings in INFORSID'
 citation: 'Zhong, J. and Negre, E. (2021). Ai: To interpret or to explain? In Congrès Inforsid (INFormatique des ORganisations et Systèmes d’Information et de Décision), pages 149 - 164.'
 ---
 
-[Download paper here](http://inforsid.fr/actes/2021/Actes_INFORSID2021.pdf)
+[Paper link](http://inforsid.fr/actes/2021/Actes_INFORSID2021.pdf)
 
