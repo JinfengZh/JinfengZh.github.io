@@ -8,6 +8,6 @@ citation: 'Zhong, J. and Negre, E. Towards better representation of context into
 ---
 
 
-[Download paper here](https://www.igi-global.com/article/towards-better-representation-of-context-into-recommender-systems/295080)
+[Paper Link](https://www.igi-global.com/article/towards-better-representation-of-context-into-recommender-systems/295080)
 
 
