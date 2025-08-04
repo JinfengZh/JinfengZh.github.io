@@ -8,6 +8,6 @@ citation: 'Zhong, J. and Negre, E. Towards improving user-recommender systems in
 ---
 
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/9708869)
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/9708869)
 
 
