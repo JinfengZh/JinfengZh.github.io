@@ -7,4 +7,4 @@ venue: 'Argumentation meets matrix factorization: A dual perspective for explain
 citation: 'Zhong, J. and Negre, E. (2025). Argumentation meets matrix factorization: A dual perspective for explainable recommendations. Applied Soft Computing'
 ---
 
-[Coming soon]
+[Paper Link](Coming Soon)
