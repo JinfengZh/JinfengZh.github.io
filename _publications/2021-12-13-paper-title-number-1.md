@@ -8,5 +8,5 @@ citation: 'Zhong, J. and Negre, E. Context-aware explanations in recommender sys
 ---
 
 
-[Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-98531-8_8)
+[Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-98531-8_8)
 
