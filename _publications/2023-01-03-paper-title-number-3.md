@@ -7,6 +7,6 @@ venue: 'Proceedings of HICSS'
 citation: 'Le Ngoc, L., Zhong, J., Negre, E., and Abel, M.-H. Constraint-based recommender system for crisis management simulations. In The 56th Hawaii International Conference on System Sciences, pages 1778–1789.'
 ---
 
-[paper Link](https://www.researchgate.net/publication/371375932_Constraint-based_recommender_system_for_crisis_management_simulations)
+[Paper Link](https://www.researchgate.net/publication/371375932_Constraint-based_recommender_system_for_crisis_management_simulations)
 
 
