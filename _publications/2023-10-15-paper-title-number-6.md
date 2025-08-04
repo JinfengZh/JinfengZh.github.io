@@ -7,3 +7,4 @@ venue: 'Simulation: Transactions of the Society for Modeling and Simulation Inte
 citation: 'Zhong, J., Le Ngoc, L., Negre, E., and Abel, M.-H. (2023). Ontology-based crisis simulation system for population sheltering management. SIMULATION-TRANSACTIONS OF THE SOCIETY FOR MODELING AND SIMULATION INTERNATIONAL'
 ---
 
+[Paper Link](https://journals.sagepub.com/doi/abs/10.1177/00375497231214563)
