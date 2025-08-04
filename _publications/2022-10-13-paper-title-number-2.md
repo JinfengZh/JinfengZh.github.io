@@ -7,5 +7,5 @@ venue: 'Proceedings DSAA'
 citation: 'Zhong, J. and Negre, E. $A^3R$: Argumentative explanations for recommendations. In 2022 IEEE 9th International Conference on Data Science and Advanced Analytics (DSAA), pages 1–9. IEEE.'
 ---
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/10032419)
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/10032419)
 
