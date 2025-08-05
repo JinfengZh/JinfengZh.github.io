@@ -7,4 +7,4 @@ venue: 'Applied Soft Computing'
 citation: 'Zhong, J. and Negre, E. (2025). Argumentation meets matrix factorization: A dual perspective for explainable recommendations. Applied Soft Computing'
 ---
 
-[Paper Link](Coming Soon)
+[Paper Link](https://www.sciencedirect.com/science/article/pii/S1568494625009639?ref=pdf_download&fr=RR-2&rr=96a646ceae06d10d)
