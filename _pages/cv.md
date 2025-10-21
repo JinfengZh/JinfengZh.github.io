@@ -72,7 +72,7 @@ Service and leadership
 ======
 * Programme comittee of [The Second International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/2025/organisation.html)
 * Programme comittee of [Sustainable Governance and Social Responsibility based on Artificial Intelligence Approaches (SGSR-AI)](https://ufe.edu.eg/3scea2026/#workshops)
-* Orgniser of [Explain'AI 2026](https://sites.google.com/view/explainai-2026/comit%C3%A9)
+* Organiser of [Explain'AI 2026](https://sites.google.com/view/explainai-2026/comit%C3%A9)
 * Reviewer of [Explain'AI 2024](https://sites.google.com/view/explainai-2024/accueil)
 * Reviewer of [Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)
 * Reviewer of [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
