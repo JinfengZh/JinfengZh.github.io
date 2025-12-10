@@ -70,6 +70,8 @@ Teaching
   
 Service and leadership
 ======
+* Programme comittee of [Doctoral Consortium
+ at the 20th Research Challenges in Information Science](https://www.rcis-conf.com/rcis2026/callDoctoral.php)
 * Programme comittee of [The Second International Workshop on Argumentation and Applications](https://argapp-workshop.github.io/2025/organisation.html)
 * Programme comittee of [Sustainable Governance and Social Responsibility based on Artificial Intelligence Approaches (SGSR-AI)](https://ufe.edu.eg/3scea2026/#workshops)
 * Organiser of [Explain'AI 2026](https://exai26.lifat.fr/comit%C3%A9)
