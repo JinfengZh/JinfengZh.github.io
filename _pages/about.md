@@ -23,5 +23,5 @@ My research interests are rooted in **artificial intelligence**, with a focus on
 * **Explainable AI (XAI)**: argumentation-based explanations, counterfactual reasoning, and evaluation of explanations.
 * **Recommender Systems**: generality, interpretability, and trustworthiness.
 * **Survival Analysis & Market Microstructure**: modeling order execution dynamics in limit order books.
-* **Deep Learning in Finance**: detection of market strategies (e.g., spoofing) in equities and futures.
+* **Deep Learning in Finance**: detection of manipulative strategies (e.g., spoofing) in equities and futures; prediction of fill probabilities.
 * **Knowledge Representation & Reasoning**: integrating logic, argumentation, and learning.
