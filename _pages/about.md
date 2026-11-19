@@ -19,6 +19,7 @@ My research interests are rooted in **artificial intelligence**, with a focus on
 ## News
 
 - **Nov 2026** — Awarded €6,000 in research funding from LIASD.
+- **Sep 2026** — Continued my collaboration with CEREMADE, using data provided by Euronext to study trading strategies.
 - **Jul 2026** — Our HyperDec research project was awarded €672,000 in funding from the French National Research Agency (ANR) for four years. The project is scheduled to begin in March 2027.
 - **Jun 2026** — Became a member of the Collège SIC of AFIA (Association Française d'Intelligence Artificielle).
 - **Apr 2026** — Led the establishment of a research partnership with Jinko, securing €30,000 in research funding.
