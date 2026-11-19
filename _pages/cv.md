@@ -40,28 +40,6 @@ Work experience
 
 
   
-Skills
-======
-* Python
-  * Deep learning frameworks: Pytorch, Tensorflow
-  * Data analysis, visualization: Pandas, Numpy, Seaborn, Matplotlib, Plotly...
-  * Machine Learning: Scikit-learn, Scipy...
-* Database: SQL, Neo4J, Mongodb
-* Git
-* PHP, HTML, CSS
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}

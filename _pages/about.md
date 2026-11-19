@@ -16,6 +16,15 @@ Before joining [LAMSADE](https://www.lamsade.dauphine.fr/en.html) for my doctora
 
 My research interests are rooted in **artificial intelligence**, with a focus on **explainability and interpretability**. I work on argumentation-based approaches for explainable recommendations, counterfactual reasoning, and methodologies for evaluating explanations. In parallel, I develop **deep learning methods for financial market microstructure analysis**, particularly for detecting strategies such as spoofing in equities and index futures.
 
+## News
+
+- **Nov 2026** — Awarded €6,000 in research funding from LIASD.
+- **Jul 2026** — Our HyperDec research project was awarded €672,000 in funding from the French National Research Agency (ANR) for four years. The project is scheduled to begin in March 2027.
+- **Jun 2026** — Became a member of the Collège SIC of AFIA (Association Française d'Intelligence Artificielle).
+- **Apr 2026** — Led the establishment of a research partnership with Jinko, securing €30,000 in research funding.
+- **Jan 2026** — Awarded €5,000 in research funding from LIASD.
+- **Dec 2025** — Joined the Council of the Association d’Intelligence Artificielle France-Chine (AIFC).
+
 ---
 
 **Research Interests**
