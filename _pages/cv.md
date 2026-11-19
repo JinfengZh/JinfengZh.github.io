@@ -56,6 +56,8 @@ Service and leadership
 * Reviewer of [Explain'AI 2024](https://sites.google.com/view/explainai-2024/accueil)
 * Reviewer of [Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)
 * Reviewer of [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+* Reviewer of [ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+* Reviewer of [ICASSP 2027](https://2027.ieeeicassp.org/)
 * Reviewer of [The Journal of Supercomputing](https://link.springer.com/journal/11227)
 * Reviewer of [ADMA2023](https://adma2023.uqcloud.net/)
 * Volunteer of [SUM 2022](https://sum2022.sciencesconf.org/resource/gallery/id/17#23)
