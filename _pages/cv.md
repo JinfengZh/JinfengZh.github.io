@@ -20,6 +20,8 @@ Education
 
 Work experience 
 ======
+* **September 2026 – Present: Associate Professor (Maître de conférences)** at University Paris 8 and the [LIASD](https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD?utm_source=chatgpt.com)
+
 * September 2025 -: Assistant professor (Maîtres de conférences) et University Paris 8 and the [LIASD](https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD)
   
 * April 2024 - August 2025: Postdoctoral Researcher
